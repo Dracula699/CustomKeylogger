@@ -37,7 +37,7 @@ This is a simple Python script that records everything you type for a specific a
 If you have Git installed, open your terminal and run:
 
 ```bash
-git clone https://github.com/Dracula699/CustomKeylogger
+git clone https://github.com/Dracula699/CustomKeylogger.git
 cd KEYLOGGER
 py keylogger.py
 
